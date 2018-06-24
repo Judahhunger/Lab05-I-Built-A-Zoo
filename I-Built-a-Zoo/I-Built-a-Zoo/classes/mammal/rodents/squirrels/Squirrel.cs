@@ -4,7 +4,8 @@ using System.Text;
 
 namespace I_Built_a_Zoo.classes
 {
-    class Squirrel
+    public abstract class Squirrel : Rodent
     {
+       
     }
 }
