@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I-Built-a-Zoo", "I-Built-a-Zoo\I-Built-a-Zoo.csproj", "{3208BC37-F37F-4BFA-83BD-AE7A2D720BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I_Built_a_Zoo", "I-Built-a-Zoo\I_Built_a_Zoo.csproj", "{3208BC37-F37F-4BFA-83BD-AE7A2D720BCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I-built-a-zoo-tests", "I-built-a-zoo-tests\I-built-a-zoo-tests.csproj", "{2D1BD195-665B-4755-8A6E-063393EE1D14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I-built-a-zoo-tests", "I-built-a-zoo-tests\I-built-a-zoo-tests.csproj", "{2D1BD195-665B-4755-8A6E-063393EE1D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
